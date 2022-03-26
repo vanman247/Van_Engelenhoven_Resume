@@ -14,8 +14,8 @@ A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
 ## Education
 
+### __Brigham Young University - Idaho__ , Rexburg, ID
 `2018-2022`
-__Brigham Young University - Idaho__, Rexburg, ID
 
 - Major: Data Science
     - Data Wrangling and Visualization
@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
     - Data Science Consulting
     - Database Management
 
-__High School__, Fulton, MO
+### __High School__ , Fulton, MO
 
 - Summary of School
     - Averaged 3.54 GPA
@@ -67,11 +67,11 @@ __High School__, Fulton, MO
 
 ### Projects
 
-#### __Eagle Eye Produce__, Rexburg, ID
+#### __Eagle Eye Produce__ , Rexburg, ID
 `September 2021 - December 2021`
 - Consulted about their database, and helped restructure the database for optimal efficiency within the company’s dynamic. To improve the company’s performance in the open market.
 
-#### __Senior Project__, Rexburg, ID
+#### __Senior Project__ , Rexburg, ID
 `January 2022 - April 2022`
 
 - Options Market Analysis
@@ -90,10 +90,9 @@ __High School__, Fulton, MO
     - Power BI
     - Used R for research adn Statistical Reporting
     - Familiarity with HTML, and basic CSS
-    - 
+
 - Acheivements
     - Eagle Scout
-        - Order of the Arrow
 
 - Other
     - Served as a Missionary for 2 years
