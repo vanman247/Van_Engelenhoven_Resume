@@ -9,7 +9,6 @@ A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 <a href="ammoncvan@gmail.com">ammoncvan@gmail.com</a>
 | <a href="https://github.com/vanman247">Github Account</a>
 | <a href="https://www.linkedin.com/in/ammon-van-engelenhoven-4a42a0173/">LinkedIn</a>
-| <a href="https://github.com/vanman247/Van_Engelenhoven_Resume">GitHub Resume</a>
 </div>
 
 ## Education
