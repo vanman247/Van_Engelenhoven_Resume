@@ -9,6 +9,7 @@ A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 <a href="ammoncvan@gmail.com">ammoncvan@gmail.com</a>
 | <a href="https://github.com/vanman247">Github Account</a>
 | <a href="https://www.linkedin.com/in/ammon-van-engelenhoven-4a42a0173/">LinkedIn</a>
+| <a href="https://app.joinhandshake.com/stu/users/12645338">Handshake</a>
 </div>
 
 ## Education
@@ -66,13 +67,13 @@ __High School__, Fulton, MO
 
 ### Projects
 
-`September 2021 - December 2021`
 __Eagle Eye Produce__, Rexburg, ID
-
+`September 2021 - December 2021`
 - Consulted about their database, and helped restructure the database for optimal efficiency within the company’s dynamic. To improve the company’s performance in the open market.
 
-`January 2022 - April 2022`
 __Senior Project__, Rexburg, ID
+`January 2022 - April 2022`
+
 - Options Market Analysis
     -  Performed Analysis to determine if the use of Options is a viable way to invest a portfolio.
 - Database management
