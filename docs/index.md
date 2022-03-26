@@ -57,7 +57,7 @@ __High School__, Fulton, MO
     - Identified new targets, developed new business opportunities and presented product lines to customers.
 
 `September 2021 - April 2022`
-- Administrative assistant
+- Administrative Assistant
     - Familiar with Rent Manager
     - Worked mainly in the Billing Department
     - Data Entry and Validation
@@ -79,6 +79,27 @@ __Senior Project__, Rexburg, ID
 - Database management
     - Built SQL Database to handle incoming data and exporting values.
 - Webscraping
+
+## Things of Note
+
+- Skills
+    - Python
+    - SQL
+    - Excel for spreadsheet analysis
+    - 3 years of Tableau experience
+    - Power BI
+    - Used R for research adn Statistical Reporting
+    - Familiarity with HTML, and basic CSS
+    - 
+- Acheivements
+    - Eagle Scout
+        - Order of the Arrow
+
+- Other
+    - Served as a Missionary for 2 years
+
+
+
 
 <!-- ### Footer
 
