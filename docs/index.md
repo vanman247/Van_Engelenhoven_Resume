@@ -56,6 +56,15 @@ __High School__, Fulton, MO
     - Conferred with clients to understand needs and make targeted international shipping recommendations. 
     - Identified new targets, developed new business opportunities and presented product lines to customers.
 
+`September 2021 - April 2022`
+- Administrative assistant
+    - Familiar with Rent Manager
+    - Worked mainly in the Billing Department
+    - Data Entry and Validation
+    - Database Management
+    - Customer Service
+    - Worked with 1099 Vendor's
+
 ### Projects
 
 `September 2021 - December 2021`
