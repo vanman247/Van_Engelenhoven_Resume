@@ -81,7 +81,7 @@ A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
     - Excel for spreadsheet analysis
     - 3 years of Tableau experience
     - Power BI
-    - Used R for research adn Statistical Reporting
+    - Used R for research and Statistical Reporting
     - Familiarity with HTML, and basic CSS
 
 - Acheivements
