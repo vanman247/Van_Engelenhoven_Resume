@@ -40,24 +40,20 @@ A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
 ### Work Experience
 
-
-`August 2018 - Febuary 2021`
-- Wal-Mart Associate
+- Wal-Mart Associate, `August 2018 - Febuary 2021`
     - As a Wal-Mart Associate, I would work wherever I was needed, from General Merchandise to Fresh Produce. Often as part of a team to accomplish our goals.
     - Familiarity with Wal-Mart Database
     - Warehouse Inventory Management
     - Power Lifting Equipment Certified
 
-`July 2020 - January 2021`
-- Regional Account Manager
+- Regional Account Manager, `July 2020 - January 2021`
     - Renegotiated contracts with expiring accounts to continue relationships with over 30 company clients.
     - Built and cultivated long-term quality relationships with over 30 clients by addressing needs and providing superior customer service.
     - Prepared and delivered presentations to international clients to highlight offerings and secure new business.
     - Conferred with clients to understand needs and make targeted international shipping recommendations. 
     - Identified new targets, developed new business opportunities and presented product lines to customers.
 
-`September 2021 - April 2022`
-- Administrative Assistant
+- Administrative Assistant, `September 2021 - April 2022`
     - Familiar with Rent Manager
     - Worked mainly in the Billing Department
     - Data Entry and Validation
