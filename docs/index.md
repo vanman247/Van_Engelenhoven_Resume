@@ -3,28 +3,37 @@ layout: cv
 title: Ammon Van Engelenhoven
 ---
 # Ammon Van Enegelenhoven
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
 <div id="webaddress">
 <a href="Email">ammoncvan@gmail.com</a>
 | <a href="https://github.com/vanman247">Github Account</a>
 | <a href="https://www.linkedin.com/in/ammon-van-engelenhoven-4a42a0173/">LinkedIn</a>
-| <a href="https://github.com/vanman247/Van_Engelenhoven_Resume">GitHub</a>
+| <a href="https://github.com/vanman247/Van_Engelenhoven_Resume">GitHub Resume</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2018-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Major: Data Science
+    - Data Wrangling and Visualization
+    - Spreadsheet Analysis for Business
+    - Applied Linear Regression
+    - Programming with Functions
+    - Machine Learning and Data Mining
+    - Project Management
+    - Data Science Consulting
+    - Database Management
+
+__High School__, Fulton, MO
+
+- Summary of School
+    - Averaged 3.54 GPA
+    - AP Calculus, Chemistry, Biology
+    - Wrestling Team - 182 lbs. Weight division
+    - Track and Field - Cross Country & Intermediate Distance
 
 
 ## Related Experience
