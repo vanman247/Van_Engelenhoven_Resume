@@ -6,7 +6,7 @@ title: Ammon Van Engelenhoven
 A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
 <div id="webaddress">
-<a href="Email">ammoncvan@gmail.com</a>
+<a href="ammoncvan@gmail.com">ammoncvan@gmail.com</a>
 | <a href="https://github.com/vanman247">Github Account</a>
 | <a href="https://www.linkedin.com/in/ammon-van-engelenhoven-4a42a0173/">LinkedIn</a>
 | <a href="https://github.com/vanman247/Van_Engelenhoven_Resume">GitHub Resume</a>
@@ -40,6 +40,7 @@ __High School__, Fulton, MO
 
 ### Work Experience
 
+
 `August 2018 - Febuary 2021`
 - Wal-Mart Associate
     - As a Wal-Mart Associate, I would work wherever I was needed, from General Merchandise to Fresh Produce. Often as part of a team to accomplish our goals.
@@ -54,6 +55,7 @@ __High School__, Fulton, MO
     - Prepared and delivered presentations to international clients to highlight offerings and secure new business.
     - Conferred with clients to understand needs and make targeted international shipping recommendations. 
     - Identified new targets, developed new business opportunities and presented product lines to customers.
+
 ### Projects
 
 `September 2021 - December 2021`
