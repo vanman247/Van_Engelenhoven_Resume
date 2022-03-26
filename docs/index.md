@@ -67,11 +67,11 @@ __High School__, Fulton, MO
 
 ### Projects
 
-__Eagle Eye Produce__, Rexburg, ID
+#### __Eagle Eye Produce__, Rexburg, ID
 `September 2021 - December 2021`
 - Consulted about their database, and helped restructure the database for optimal efficiency within the company’s dynamic. To improve the company’s performance in the open market.
 
-__Senior Project__, Rexburg, ID
+#### __Senior Project__, Rexburg, ID
 `January 2022 - April 2022`
 
 - Options Market Analysis
