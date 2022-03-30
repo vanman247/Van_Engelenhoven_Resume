@@ -1,60 +1,98 @@
-# md-resume
+---
+layout: cv
+title: Ammon Van Engelenhoven
+---
+# Ammon Van Enegelenhoven
+A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="ammoncvan@gmail.com">ammoncvan@gmail.com</a>
+| <a href="https://github.com/vanman247">Github Account</a>
+| <a href="https://www.linkedin.com/in/ammon-van-engelenhoven-4a42a0173/">LinkedIn</a>
+| <a href="https://app.joinhandshake.com/stu/users/12645338">Handshake</a>
+</div>
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## Education
 
-***
+### __Brigham Young University - Idaho__ , Rexburg, ID
+`2018-2022`
 
-## Customization
+- Major: Data Science
+    - Data Wrangling and Visualization
+    - Spreadsheet Analysis for Business
+    - Applied Linear Regression
+    - Programming with Functions
+    - Machine Learning and Data Mining
+    - Project Management
+    - Data Science Consulting
+    - Database Management
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+### __High School__ , Fulton, MO
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+- Summary of School
+    - Averaged 3.54 GPA
+    - AP Calculus, Chemistry, Biology
+    - Wrestling Team - 182 lbs. Weight division
+    - Track and Field - Cross Country & Intermediate Distance
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Related Experience
 
-adding your skills, jobs and education.
+### Work Experience
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+- Wal-Mart Associate, `August 2018 - Febuary 2021`
+    - As a Wal-Mart Associate, I would work wherever I was needed, from General Merchandise to Fresh Produce. Often as part of a team to accomplish our goals.
+    - Familiarity with Wal-Mart Database
+    - Warehouse Inventory Management
+    - Power Lifting Equipment Certified
 
-## Distribution
+- Regional Account Manager, `July 2020 - January 2021`
+    - Renegotiated contracts with expiring accounts to continue relationships with over 30 company clients.
+    - Built and cultivated long-term quality relationships with over 30 clients by addressing needs and providing superior customer service.
+    - Prepared and delivered presentations to international clients to highlight offerings and secure new business.
+    - Conferred with clients to understand needs and make targeted international shipping recommendations. 
+    - Identified new targets, developed new business opportunities and presented product lines to customers.
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+- Administrative Assistant, `September 2021 - April 2022`
+    - Familiar with Rent Manager
+    - Worked mainly in the Billing Department
+    - Data Entry and Validation
+    - Database Management
+    - Customer Service
+    - Worked with 1099 Vendor's
 
-### I. Use Github Pages to publish it online
+### Projects
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
+#### __Eagle Eye Produce__ , Rexburg, ID, `September 2021 - December 2021`
+- Consulted about their database, and helped restructure the database for optimal efficiency within the company’s dynamic. To improve the company’s performance in the open market.
 
-![](docs_setup.png)
+#### __Senior Project__ , Rexburg, ID, `January 2022 - April 2022`
+- Options Market Analysis
+    -  Performed Analysis to determine if the use of Options is a viable way to invest a portfolio.
+- Database management
+    - Built SQL Database to handle incoming data and exporting values.
+- Webscraping
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+## Things of Note
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+- Skills
+    - Python
+    - SQL
+    - Excel for spreadsheet analysis
+    - 3 years of Tableau experience
+    - Power BI
+    - Used R for research and Statistical Reporting
+    - Familiarity with HTML, and basic CSS
 
-## Styling
+- Acheivements
+    - Eagle Scout
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+- Other
+    - Served as a Missionary for 2 years
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
 
-### Author
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+<!-- ### Footer
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+Last updated: May 2013
