@@ -1,10 +1,6 @@
 # Van_Engelenhoven_Resume
 This is My Resume for my Class
 
----
-layout: cv
-title: Ammon Van Engelenhoven
----
 # Ammon Van Enegelenhoven
 A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
@@ -92,10 +88,3 @@ A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
 - Other
     - Served as a Missionary for 2 years
-
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013
